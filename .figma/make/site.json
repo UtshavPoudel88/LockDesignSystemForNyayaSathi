@@ -1,0 +1,10 @@
+{
+  "description": "Connect with legal experts and access essential legal resources in Nepal through a user-friendly mobile platform designed for reliable legal assistance.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
